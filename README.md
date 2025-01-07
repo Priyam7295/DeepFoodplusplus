@@ -43,3 +43,5 @@ The model utilizes the VGG architecture as a base for fine-tuning. The steps inc
 2. Top-5 Accuracy: 96% (approx.)
 
 
+![image](https://github.com/user-attachments/assets/78fd1772-8c64-4de5-962a-1de4f8a7c258)
+
